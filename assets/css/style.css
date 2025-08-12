@@ -54,6 +54,16 @@ ul a:hover{
   color: #8DBF95;
 }
 
+.content a{
+  text-decoration: none;
+  font-style: italic;
+  color: black;
+}
+
+.content a:hover{
+  color: #8DBF95;
+}
+
 /** Header **/
 .header {
   display: flex;
