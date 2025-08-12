@@ -199,6 +199,14 @@ ul a:hover{
   box-sizing: border-box;
 } 
 
+.single-image-portrait {
+  width: 50%;
+  max-width: 300px;
+  margin: 10px auto;
+  box-sizing: border-box;
+} 
+
+
 
 
 .small-image2{
